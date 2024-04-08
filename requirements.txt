@@ -7,3 +7,4 @@ pyarrow
 requests
 matplotlib_venn
 pubchempy
+upsetplot==0.9.0
